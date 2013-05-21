@@ -16,14 +16,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('Plum Village', 'http://plumvillage.org/'),
+          ('The European Institute of Applied Buddhism', 'http://eiab.eu'),
+          ('Wake Up', 'http://wkup.org'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Thich Nhat Hanh on Facebook', 'http://facebook.com/thichnhathanh'),
+          ('Thich Nhat Hanh on Twitter', 'http://twitter.com/thichnhathanh'),)
 
 DEFAULT_PAGINATION = 10
 
