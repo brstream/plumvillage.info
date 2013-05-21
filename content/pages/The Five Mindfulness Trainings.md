@@ -6,8 +6,6 @@ Slug: 5mt
 Author: Thich Nhat Hanh & the Plum Village Community
 Summary: The introduction and text of the Five Mindfulness Trainings
 
-# The Five Mindfulness Trainings
-
 The Five Mindfulness Trainings represent the Buddhist vision for a global spirituality and ethic. They are a concrete expression of the Buddha’s teachings on the Four Noble Truths and the Noble Eightfold Path, the path of right understanding and true love, leading to healing, transformation, and happiness for ourselves and for the world. To practice the Five Mindfulness Trainings is to cultivate the insight of interbeing, or Right View, which can remove all discrimination, intolerance, anger, fear, and despair. If we live according to the Five Mindfulness Trainings, we are already on the path of a bodhisattva. Knowing we are on that path, we are not lost in confusion about our life in the present or in fears about the future.
 
 ## Reverence for Life
