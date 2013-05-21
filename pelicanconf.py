@@ -26,5 +26,6 @@ SOCIAL = (('Thich Nhat Hanh on Facebook', 'http://facebook.com/thichnhathanh'),
 
 DEFAULT_PAGINATION = 10
 
+THEME = 'mnmlist'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
