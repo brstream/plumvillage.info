@@ -6,8 +6,6 @@ Slug: 14mt
 Author: Thich Nhat Hanh & the Plum Village Community
 Summary: The introduction and text of the Fourteen Mindfulness Trainings
 
-# The Fourteen Mindfulness Trainings
-
 The Fourteen Mindfulness Trainings are the very essence of the Order of Interbeing. They are the torch lighting our path, the boat carrying us, the teacher guiding us. They allow us to touch the nature of interbeing in everything that is, and to see that our happiness is not separate from the happiness of others. Interbeing is not a theory; it is a reality that can be directly experienced by each of us at any moment. The Fourteen Mindfulness Trainings help us cultivate concentration and insight which free us from fear and the illusion of a separate self.
 
 ## The First Mindfulness Training: Openness
