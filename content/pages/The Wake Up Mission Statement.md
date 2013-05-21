@@ -1,7 +1,7 @@
 Title: The Wake Up Mission Statement
 Date: 2013-05-21
-Category: Wake Up
-Tags: Wake Up, trainings, aspiration, young people
+Category: Aspiration
+Tags: trainings, aspiration, young
 Slug: wkup
 Author: Thich Nhat Hanh & the Plum Village Community
 Summary: The mission and aspiration of the Wake Up movement

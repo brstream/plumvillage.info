@@ -1,7 +1,7 @@
 Title: The Fourteen Mindfulness Trainings
 Date: 2013-05-21
-Category: Mindfulness Training
-Tags: mindfulness, precepts, Engaged Buddhism, Sangha-building
+Category: Mindfulness
+Tags: mindfulness, precepts, Sangha
 Slug: 14mt
 Author: Thich Nhat Hanh & the Plum Village Community
 Summary: The introduction and text of the Fourteen Mindfulness Trainings
