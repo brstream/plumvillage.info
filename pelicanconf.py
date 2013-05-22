@@ -15,6 +15,8 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+PDF_GENERATOR = True
+
 # Blogroll
 LINKS =  (('Plum Village', 'http://plumvillage.org/'),
           ('The European Institute of Applied Buddhism', 'http://eiab.eu'),
