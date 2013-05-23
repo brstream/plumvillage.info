@@ -1,11 +1,9 @@
-Title: Textos para Plum Village
-Date: 2013-05-23
-Category: Documentos		
-Tags: home
-Slug: text
-Author: Thich Nhat Hanh & the Plum Village Community
-Summary: Una página web nuevo para los textos de Plum Village
-Lang: es
+Textos para Plum Village
+########################
+
+:date: 2013-05-23
+:slug: texts-for-plum-village
+:lang: es
 
 Disfrute usted de su respiración.
 

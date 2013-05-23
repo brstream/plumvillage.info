@@ -9,14 +9,14 @@ SITEURL = ''
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
-
+DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 PDF_GENERATOR = True
-PDF_STYLE = 'twelvepoint'
+PDF_STYLE = 'serif'
 # Blogroll
 LINKS =  (('Plum Village', 'http://plumvillage.org/'),
           ('The European Institute of Applied Buddhism', 'http://eiab.eu'),

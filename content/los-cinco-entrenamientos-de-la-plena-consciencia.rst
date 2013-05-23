@@ -1,25 +1,27 @@
-Title: Los Cinco Entrenamientos de la Plena Consciencia
-Date: 2013-05-22
-Category: Entrenamientos
-Tags: mindfulness, preceptos
-Slug: 5mt
-Author: Thich Nhat Hanh & the Plum Village Community
-Summary: Presentación y texto de los Cinco Entrenamientos de la Plena Consciencia
-Lang: es
+Los Cinco Entrenamientos de la Plena Consciencia
+################################################
 
-> Los Cinco Entrenamientos de la plena consciencia representan la visión de todos nuestros antepasados espirituales para una espiritualidad y una ética mundial. Son una expresión concreta de un camino de sabiduría y amor verdadero que lleva a la curación, la transformación y la felicidad para nosotros y para el mundo. Practicar los cinco entrenamientos de la plena consciencia es cultivar un estilo de vida que puede eliminar toda forma de discriminación, intolerancia, ira, miedo y desesperación. Al seguir esta manera de vivir, no nos perdemos en la confusión acerca de nuestra vida presente o en el miedo acerca del futuro.
- 
-## Primer entrenamiento:  Reverencia hacia la vida
+:slug: the-five-mindfulness-trainings
+:lang: es
+
+*Los Cinco Entrenamientos de la plena consciencia representan la visión de todos nuestros antepasados espirituales para una espiritualidad y una ética mundial. Son una expresión concreta de un camino de sabiduría y amor verdadero que lleva a la curación, la transformación y la felicidad para nosotros y para el mundo. Practicar los cinco entrenamientos de la plena consciencia es cultivar un estilo de vida que puede eliminar toda forma de discriminación, intolerancia, ira, miedo y desesperación. Al seguir esta manera de vivir, no nos perdemos en la confusión acerca de nuestra vida presente o en el miedo acerca del futuro.*
+                                              
+Primer entrenamiento:  Reverencia hacia la vida
+----------------------------------------------- 
 Consciente del sufrimiento causado por la destrucción de la vida, me comprometo a cultivar la compasión y a aprender formas de proteger la vida de personas, animales, plantas y nuestra Tierra. Me comprometo a no matar, a no dejar que otros maten, y a no apoyar ningún acto de violencia en el mundo, en mi pensamiento, o en mi modo de vivir. Al observar que las acciones que causan daño surgen de la ira, el miedo, la avaricia y la intolerancia, y que a su vez éstas surgen de una forma de pensar discriminatoria, cultivaré la amplitud de miras, la no-discriminación, y el no-apego a puntos de vista, para poder transformar la violencia, el fanatismo y el dogmatismo en mí y en el mundo.
  
-## Segundo entrenamiento: Verdadera  felicidad
+Segundo entrenamiento: Verdadera felicidad
+------------------------------------------
 Consciente del sufrimiento causado por la explotación, la injusticia social, el robo y la opresión, me comprometo a practicar la generosidad en mi pensamiento, en mi habla y en mis actos. Me comprometo a no robar y a no poseer nada que pertenezca a los demás, y a compartir mi tiempo, energía y recursos materiales con aquellos que los necesiten. Practicaré la visión profunda para ver que la felicidad y el sufrimiento de los demás no están separados de mi propia felicidad y sufrimiento y que la verdadera felicidad no es posible sin la comprensión y la compasión, y que perseguir la riqueza, fama, poder y placeres sensuales puede acarrear mucho sufrimiento y desesperanza. Soy consciente de que la felicidad depende de mi actitud mental y no de condiciones externas, y que puedo vivir felizmente en el momento presente acordándome de que ya poseo las suficientes condiciones para ser feliz. Me comprometo a trabajar de forma que pueda reducir el sufrimiento de seres vivos sobre la tierra y dar marcha atrás al proceso de calentamiento climático.
  
-## Tercer entrenamiento: Amor verdadero
+Tercer entrenamiento: Amor verdadero
+------------------------------------
 Consciente del sufrimiento provocado por una conducta sexual inapropiada, me comprometo a cultivar la responsabilidad y a aprender medios de proteger la seguridad y la integridad de individuos, parejas, familias y la sociedad. Reconociendo que el deseo sexual no es necesariamente expresión de amor, y que la actividad sexual motivada por el deseo compulsivo me daña tanto a mí como a los demás, tomo la determinación de no comprometerme en relaciones sexuales sin amor verdadero y sin un profundo compromiso a largo plazo, conocido tanto como por mi familia como por mis amigos. Haré todo lo que esté en mi mano para proteger a los niños del abuso sexual y para prevenir que las parejas y familias se rompan a causa de una conducta sexual inapropiada. Consciente de que el cuerpo y la mente son uno, me comprometo a aprender formas apropiadas de cuidar mi energía sexual y a cultivar la bondad, la compasión, la alegría y la inclusividad, que son los cuatro básicos elementos del amor verdadero, para mi mayor felicidad y la mayor felicidad de los demás. Practicando el verdadero amor, sabemos que continuaremos de una forma hermosa en el futuro.
  
-## Cuarto entrenamiento: Habla amorosa y escucha profunda
+Cuarto entrenamiento: Habla amorosa y escucha profunda
+------------------------------------------------------
 Consciente del sufrimiento causado por la palabra irreflexiva y por la falta de habilidad para escuchar a los demás, me comprometo a cultivar un habla amorosa y una escucha compasiva que alivien el sufrimiento y promuevan la reconciliación y la paz en mi y en otras personas, etnias, grupos religiosos y naciones. Consciente de que las palabras pueden crear felicidad o sufrimiento, me comprometo a hablar con honestidad y a utilizar palabras que inspiren confianza, alegría y esperanza. Cuando la ira se manifieste en mí, me comprometo a no hablar. Practicaré la respiración y el caminar en plena consciencia para poder reconocer y mirar profundamente en mi ira. Reconozco que las raíces de la ira se encuentran en mis percepciones erróneas y en la falta de comprensión de mi propio sufrimiento y el de la otra persona. Hablaré y escucharé de tal forma que pueda ayudarme y ayudar al otro a liberarse del sufrimiento y a encontrar caminos para salir de situaciones difíciles. Me comprometo a no difundir noticias de las que no tenga certeza y a no mencionar palabras que puedan causar división o discordia. Al hablar y escuchar me esforzaré cada día en nutrir mi capacidad de comprensión, amor, alegría e inclusividad, de manera que me ayuden a transformar gradualmente la ira, violencia y miedo que yacen profundamente en mi conciencia.
 
-## Quinto entrenamiento: Consumo consciente y salud
+Quinto entrenamiento: Consumo consciente y salud
+------------------------------------------------
 Consciente del sufrimiento provocado por un consumo irreflexivo, me comprometo a practicar la plena consciencia en el comer, beber y consumir para cultivar la buena salud tanto física como moral en mí, mi familia y mi sociedad. Practicaré la visión profunda para ver cómo tomo alimentos comestibles, impresiones sensoriales, volición y conciencia. Me comprometo a no consumir alcohol, drogas, juegos de azar, así como otros productos tóxicos tales como ciertas páginas web, juegos electrónicos, programas de televisión, películas, revistas, libros y conversaciones. Practicaré la vuelta al momento presente para ponerme en contacto con los elementos refrescantes, saludables y edificantes que se encuentran a mi alrededor y dentro de mí. No dejaré que la culpabilidad y la tristeza me arrastren al pasado ni que la ansiedad, el miedo ni el deseo irreflexivo me alejen del momento presente. Me comprometo a no tratar de compensar mi soledad, mi angustia y otros sufrimientos mediante el consumo irreflexivo. Me esforzaré en consumir de tal forma que preserve la paz, la alegría y el bienestar en mi cuerpo y en mi mente, y en el cuerpo y la mente colectivas de mi familia, mi sociedad y de nuestro planeta Tierra.

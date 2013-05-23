@@ -1,10 +1,7 @@
-Title: Texts for Plum Village
-Date: 2013-05-22
-Category: Documents		
-Tags: 
-Slug: text
-Author: Thich Nhat Hanh & the Plum Village Community
-Summary: A new site for Plum Village texts
+Texts for Plum Village
+######################
+
+:date: 2013-05-22
 
 Please enjoy your breathing.
 
