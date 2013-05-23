@@ -29,4 +29,4 @@ The Five Mindfulness Trainings encourage everyone to live in such a way that our
 
 In the last three decades Plum Village has helped to train many young people in Europe, North America and Asia in this way. Now it is possible to set up Wake Up groups in each town and country. Please report to us in Plum Village what you are planning to do and what you are trying to achieve. We shall do our best to support you.
 
-You can contact us now with your ideas and suggestions: wkupnow@ gmail.com or participate in the Wake Up blog at www.wkup.org
+You can contact us now with your ideas and suggestions: info (at) wkup (dot) org or participate in the Wake Up blog at wkup.org
