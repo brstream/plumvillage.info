@@ -1,8 +1,7 @@
 The Wake Up Mission Statement
 #############################
 
-Wake Up: Young Buddhists and non-Buddhists for a Healthy and Compassionate Society
-----------------------------------------------------------------------------------
+*Wake Up: Young Buddhists and non-Buddhists for a Healthy and Compassionate Society*
 
 Wake Up is a community of young Dharma practitioners who want to help their society which is overloaded with intolerance, discrimination, craving, anger and despair.
 
