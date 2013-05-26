@@ -18,7 +18,6 @@ Conscient(e) de la souffrance provoquée par le vol, l’oppression, l’exploit
 
 Troisième entraînement : Amour véritable
 ----------------------------------------
-
 Conscient(e) de la souffrance provoquée par une conduite sexuelle irresponsable, je suis déterminé(e) à développer mon sens de la responsabilité et à apprendre à protéger l’intégrité et la sécurité de chaque individu, des couples, des familles et de la société. Je sais que le désir sexuel et l’amour sont deux choses distinctes, et que des relations sexuelles irresponsables, motivées par l’avidité, génèrent toujours de la souffrance de part et d’autre. Je m’engage à ne pas avoir de relation sexuelle sans amour véritable ni engagement profond, à long terme et connu par mes proches. Je ferai tout mon possible pour protéger les enfants des abus sexuels et pour empêcher les couples et les familles de se désunir par suite de comportements sexuels irresponsables. Sachant que le corps et l’esprit ne font qu’un, je m’engage à apprendre les moyens appropriés de gérer mon énergie sexuelle. Je m’engage à développer la bonté aimante, la compassion, la joie et la non-discrimination en moi, pour mon propre bonheur et le bonheur d’autrui. Je sais que la pratique de ces quatre fondements de l’amour véritable me garantira une continuation heureuse dans l’avenir.
 
 Quatrième entraînement : Parole aimante et écoute profonde
