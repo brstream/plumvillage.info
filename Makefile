@@ -1,4 +1,4 @@
-PY=python
+PY=python3
 PELICAN=pelican
 PELICANOPTS=
 
@@ -14,7 +14,7 @@ FTP_TARGET_DIR=/
 
 SSH_HOST=plumvillage.info
 SSH_PORT=22
-SSH_USER=root
+SSH_USER=brstream
 SSH_TARGET_DIR=/usr/share/nginx/www/plumvillage.info
 
 S3_BUCKET=my_s3_bucket
