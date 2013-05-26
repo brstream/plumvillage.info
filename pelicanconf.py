@@ -10,6 +10,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
+HIDE_DATE = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
