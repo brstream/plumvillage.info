@@ -1,0 +1,17 @@
+Thông điệp Phật đản 2013
+########################
+
+:slug: vesak-message-2013
+:lang: vi
+
+Hoàng hậu Mahamaya sinh Siddhartha một cách rất dễ dàng. Trên con đường về quê ngoại để sinh nở, bà và đoàn tùy tùng dừng chân nghỉ ngơi ở vườn Lumbini. Đang đi dạo thì bà cảm thấy giây phút sinh nở đang tới. Bà víu vào một cành cây asoka, và sinh ra thái tử Siddhartha trong thế đứng. Các thị nữ đã kịp thời đỡ lấy em bé với những trang bị cần thiết đã đem theo sẵn. Sau khi sinh Siddhartha, bà Mahamaya trở về lại Kapilavastu. Có những người hầu cận được gửi về trước để thông báo tin mừng này cho cả hai bên nội ngoại.
+
+Công nương Yasodhara khi sinh bé Rahula, con của Siddhartha, lại gặp rất nhiều khó khăn. Thời gian sinh nở kéo dài, có lúc người ta tưởng hai mẹ con đã không qua khỏi những giây phút khó khăn cực độ đó. Cả hoàng gia trong đó có Siddhartha, đều nhấp nhổm lo âu, năng lượng sợ hãi tập thể rất lớn, bao trùm cả cung điện. May thay, cuối cùng rồi Yasodhara cũng sinh được Rahula. Ta có thể thấy được rằng trong thời gian thai nghén Rahula, Siddhartha đang lâm vào một tình trạng thao thức, bất an, không có được hạnh phúc trong giây phút hiện tại. Chứng kiến những khổ đau trong bản thân, trong gia đình và cả trong vương quốc, Siddhartha không lòng nào ngồi đó mà hưởng thụ những điều kiện của một cuộc sống phù phiếm xa hoa. Yasodhara thấy được tất cả những bất an ấy nơi Siddhartha nhưng không biết cách nào để giúp Siddhartha. Những thao thức khổ đau dằn vặt của Siddhartha đã đi vào trong Yasodhara và trong cả bé Rahula. Sinh nở khó khăn ít nhất một phần cũng do nguyên do này.
+
+Kinh nghiệm sinh nở khó khăn ấy đã góp một phần trong quyết định của Siddhartha bỏ nhà ra đi tìm đạo. Yasodhara đã hiểu và đã chấp nhận.
+
+May mắn cho chúng ta là Siddhartha đã thành công. Sự thành công của Siddhartha là một sự thành công lớn của cả nhân loại, cũng như khi Neil Armstrong  đặt bước chân đầu tiên lên mặt trăng đã nói rằng đây là một bước tiến lớn của nhân loại về phương diện khoa học kỹ thuật. Siddhartha thành công cho tất cả chúng ta. Siddhartha tìm ra được con đường giúp ta xử lý được khổ đau, chế tác được hỷ lạc trong đời sống hàng ngày, vượt thoát được những hệ lụy của danh vọng, tiền tài, quyền hành và sắc dục, đồng thời tiếp xúc được tới tự tính vô sinh bất diệt của hiện hữu.
+
+Ngày hôm nay ta ăn mừng sự xuất hiện của Siddhartha trên hành tinh này. Nhưng hầu hết chúng ta đều chỉ biết tôn sùng Siddhartha như một quyền lực thiêng liêng có khả năng ban phúc trừ họa. Không mấy ai trong chúng ta đang đi được trên đường Siddhartha đã đi, biết cách xử lý khổ đau, chế tác hạnh phúc, tái lập được truyền thông, tiếp xúc với Niết bàn trong hiện tại. Đạo Bụt của chúng ta phần lớn chỉ là đạo Bụt của tín mộ. Những gì mà Bụt khuyên chúng ta nên buông bỏ như danh lợi, tài sắc v.v... bây giờ chúng ta lại cầu Bụt ban cho chúng ta những cái đó.
+
+Thực tập niệm định tuệ để đi trên con đường bát chánh như con đường hạnh phúc trong giây phút hiện tại chỉ còn là một phần nhỏ. Chúng ta đã không biết thừa hưởng những phần quý giá nhất của gia tài tâm linh mà Siddhartha để lại. Đạo Bụt của chúng ta đã hủ hóa, không còn đóng được vai trò như ngày xưa. Chúng ta phải nỗ lực làm mới đạo Bụt để đạo Bụt có thể tiếp tục đóng được vai trò của nó trong việc đem lại an bình cho bản thân, gia đình, đất nước và xã hội. Chỉ thực tập đạo Bụt tín mộ, cả ngày chỉ cúi rạp mình dưới mấy cây hương, chúng ta sẽ không làm được việc đó, chúng ta sẽ không xứng đáng là con cháu của bậc Đại Hùng.

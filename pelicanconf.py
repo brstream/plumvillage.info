@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Plum Village Online Monastery Team'
+AUTHOR = 'Thich Nhat Hanh and the Plum Village Community'
 SITENAME = 'Plum Village Info'
-SITEURL = ''
+SITEURL = 'http://plumvillage.info'
+# SITESUBTITLE = "Texts from Plum Village"
 
 TIMEZONE = 'Europe/Paris'
 
