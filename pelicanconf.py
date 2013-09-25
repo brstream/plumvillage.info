@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Thich Nhat Hanh and the Plum Village Community'
 SITENAME = 'Plum Village Info'
 SITEURL = 'http://plumvillage.info'
+RELATIVE_URLS = True
 # SITESUBTITLE = "Texts from Plum Village"
 
 TIMEZONE = 'Europe/Paris'
