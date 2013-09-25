@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Plum Village Info's documentation!
+English
 =============================================
 
 Contents:
@@ -11,18 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   en/index
-   de/index
-   es/index
-   fr/index
-   id/index
-   vi/index
-   zh/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   home
+   plum-village
+   zen-master-thich-nhat-hanh
+   the-five-mindfulness-trainings
+   the-fourteen-mindfulness-trainings
+   the-wake-up-mission-statement
+   dharma-sharing
+   vesak-message-2013
