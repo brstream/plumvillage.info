@@ -1,8 +1,6 @@
 Plum Village
 ############
 
-:author: Wikipedia
-
 Plum Village (Vietnamese: Làng Mai, French: Village des pruniers) is a Buddhist meditation center of the Order of Interbeing in the Dordogne, in southern France.
 
 It was founded by Vietnamese monk Thích Nhất Hạnh, and his colleague Bhikkhuni Chân Không, in 1982.

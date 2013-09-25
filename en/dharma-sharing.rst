@@ -1,8 +1,6 @@
 Dharma Sharing
 ##############
 
-:author: Sr. Chân Đức
-
 Dharma sharing is an opportunity for us to learn from each other by speaking and listening in the circle about our own personal experience. It is not an intellectual discussion or debate.
 
 We make a simple gesture to request to speak and the same gesture when we have finished speaking. That gesture is usually joining the palms. Joining the palms means connecting ourselves to ourselves and to the whole group. If we prefer to make another gesture such as laying our hand on our heart then we may make that gesture.

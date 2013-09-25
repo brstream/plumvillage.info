@@ -1,9 +1,6 @@
 Los Cinco Entrenamientos de la Plena Consciencia
 ################################################
 
-:slug: the-five-mindfulness-trainings
-:lang: es
-
 *Los Cinco Entrenamientos de la plena consciencia representan la visión de todos nuestros antepasados espirituales para una espiritualidad y una ética mundial. Son una expresión concreta de un camino de sabiduría y amor verdadero que lleva a la curación, la transformación y la felicidad para nosotros y para el mundo. Practicar los cinco entrenamientos de la plena consciencia es cultivar un estilo de vida que puede eliminar toda forma de discriminación, intolerancia, ira, miedo y desesperación. Al seguir esta manera de vivir, no nos perdemos en la confusión acerca de nuestra vida presente o en el miedo acerca del futuro.*
                                               
 Primer entrenamiento:  Reverencia hacia la vida

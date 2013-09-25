@@ -1,9 +1,6 @@
 Thông điệp Phật đản 2013
 ########################
 
-:slug: vesak-message-2013
-:lang: vi
-
 Hoàng hậu Mahamaya sinh Siddhartha một cách rất dễ dàng. Trên con đường về quê ngoại để sinh nở, bà và đoàn tùy tùng dừng chân nghỉ ngơi ở vườn Lumbini. Đang đi dạo thì bà cảm thấy giây phút sinh nở đang tới. Bà víu vào một cành cây asoka, và sinh ra thái tử Siddhartha trong thế đứng. Các thị nữ đã kịp thời đỡ lấy em bé với những trang bị cần thiết đã đem theo sẵn. Sau khi sinh Siddhartha, bà Mahamaya trở về lại Kapilavastu. Có những người hầu cận được gửi về trước để thông báo tin mừng này cho cả hai bên nội ngoại.
 
 Công nương Yasodhara khi sinh bé Rahula, con của Siddhartha, lại gặp rất nhiều khó khăn. Thời gian sinh nở kéo dài, có lúc người ta tưởng hai mẹ con đã không qua khỏi những giây phút khó khăn cực độ đó. Cả hoàng gia trong đó có Siddhartha, đều nhấp nhổm lo âu, năng lượng sợ hãi tập thể rất lớn, bao trùm cả cung điện. May thay, cuối cùng rồi Yasodhara cũng sinh được Rahula. Ta có thể thấy được rằng trong thời gian thai nghén Rahula, Siddhartha đang lâm vào một tình trạng thao thức, bất an, không có được hạnh phúc trong giây phút hiện tại. Chứng kiến những khổ đau trong bản thân, trong gia đình và cả trong vương quốc, Siddhartha không lòng nào ngồi đó mà hưởng thụ những điều kiện của một cuộc sống phù phiếm xa hoa. Yasodhara thấy được tất cả những bất an ấy nơi Siddhartha nhưng không biết cách nào để giúp Siddhartha. Những thao thức khổ đau dằn vặt của Siddhartha đã đi vào trong Yasodhara và trong cả bé Rahula. Sinh nở khó khăn ít nhất một phần cũng do nguyên do này.

@@ -1,9 +1,6 @@
 Die Fünf Achtsamkeitsübungen
 ############################
 
-:slug: the-five-mindfulness-trainings
-:lang: de
-
 *Schwestern und Brüder in der Gemeinschaft, dies ist der Moment, in dem wir voller Freude die fünf Achtsamkeitsübungen gemeinsam rezitieren. Die fünf Achtsamkeitsübungen verkörpern die buddhistische Vision einer globalen Spiritualität und Ethik. Sie sind ein konkreter Ausdruck der Lehren des Buddha über die „Vier Edlen Wahrheiten“ und den „Edlen Achtfachen Pfad“. Dieser Pfad von rechtem Verstehen und wahrer Liebe führt zu Heilung, Transformation und Glück in uns und in der Welt. Die fünf Achtsamkeitsübungen zu praktizieren bedeutet, die Einsicht des „Interseins“ und damit „Rechte Sichtweise“ zu entwickeln, die jede Form von Diskriminierung, Intoleranz, Ärger, Angst und Verzweiflung aufzulösen vermag. Wenn wir in Übereinstimmung mit den fünf Achtsamkeitsübungen leben, sind wir schon auf dem Weg eines Bodhisattvas. In dem Wissen, dass wir auf diesem Weg sind, verlieren wir uns nicht in Verwirrung über unser Leben in der Gegenwart oder in Sorgen über die Zukunft.*
 
 Die erste Achtsamkeitsübung: Ehrfurcht vor dem Leben

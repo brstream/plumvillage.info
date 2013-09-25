@@ -1,9 +1,6 @@
 Lima Latihan Sadar Penuh
 ########################
 
-:slug: the-five-mindfulness-trainings
-:lang: id
-
 *Kakak dan adik bersama dalam komunitas, inilah momen bagi kita bersama untuk melafalkan lima latihan perhatian penuh kesadaran. Lima latihan ini mewakili visi buddhis dalam ruang lingkup spiritual dan etnik secara global. Latihan ini merupakan ungkapan konkrit atas ajaran Buddha tentang Empat Kebenaran Mulia dan Jalan Mulia Beruas Delapan, jalan pengertian benar dan cinta kasih, menuntun ke arah penyembuhan, transformasi dan kebahagiaan untuk diri sendiri dan dunia. Melaksanakan Lima Latihan ini berarti mengolah pengertian mendalam atas keadaan saling bergantungan, pandangan benar yang mampu menyingkirkan semua jenis diskriminasi, intoleransi, kemarahan, ketakutan, dan keputusasaan. Apabila kita menjalankan hidup selaras dengan Lima Latihan ini, kita sudah berada dalam jalan bodhisatwa. Mengetahui bahwa kita sudah berada dalam jalan ini, kami tidak terhanyut dalam kebingungan tentang hidup kami di masa lampau maupun ketakutan akan masa depan.*
 
 Menjunjung Tinggi Kehidupan

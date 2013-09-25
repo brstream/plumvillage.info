@@ -1,8 +1,6 @@
 Texts for Plum Village
 ######################
 
-:date: 2013-05-22
-
 Please enjoy your breathing.
 
 This site is intended to be simple and clear: an online repository of texts from the Plum Village tradition. Eventually we would like to have it include translations of the main texts into every language imaginable.

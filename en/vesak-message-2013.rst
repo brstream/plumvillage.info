@@ -1,8 +1,6 @@
 Vesak Message 2013
 ##################
 
-:author: Thich Nhat Hanh
-
 Queen Mahamaya had a very easy labor when she gave birth to Siddhartha. On the way to her parents’ home to give birth, she and her entourage stopped to rest in the Lumbini garden. While taking a walk in the garden, she felt the moment of birth coming. She held onto a branch of the Aśoka tree and, while standing, gave birth to Prince Siddhartha. Her attendants promptly received and cared for the baby with the necessary equipment. After giving birth to Siddhartha, Queen Mahamaya returned to Kapilavastu. Some attendants were sent home before her to inform both maternal and paternal sides of the family of the good news.
 
 When Yasodhara gave birth to Rahula, Siddhartha’s son, she encountered, however, a lot of difficulties. It was a prolonged labor. At times, it was feared that mother and son would not be able to make it through those hardest moments. The royal family, including Siddhartha, were extremely worried . The collective energy of anxiety was so great that it spread throughout the whole palace. Fortunately, Yasodhara finally gave birth to Rahula. We can see that, during Yasodhara’s pregnancy, Siddhartha was unsettled and had a lot of anxiety. He was unable to be happy in the present moment. Experiencing suffering himself, witnessing the suffering of the royal family as well as that of the people in his country, it was not possible for Siddhartha to enjoy all the favorable conditions of a luxurious and comfortable life. Yasodhara was aware of Siddhartha’s afflictions, yet she did not know how to help him. The suffering in Siddhartha’s heart had also penetrated into Yasodhara, as well as the baby Rahula. Her difficult childbirth was partly due to this reason.
