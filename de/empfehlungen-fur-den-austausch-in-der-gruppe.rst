@@ -1,10 +1,6 @@
 Empfehlungen für den Austausch in der Gruppe
 ############################################
 
-:slug: dharma-sharing
-:lang: de
-:author: Sr. Chân 
-
 Immer wieder vortragen, v.a. wenn Neue dabei sind.
 
 1. Wenn wir etwas sagen wollen verbeugen wir uns und alle verbeugen sich mit uns als Ausdruck der Wertschätzung für die Person, die spricht.
